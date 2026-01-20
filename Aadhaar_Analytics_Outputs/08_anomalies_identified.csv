@@ -1,0 +1,101 @@
+Date,State,District,Volume,Z_Score,Type
+2025-06-01,Chhattisgarh,Kondagaon,16942,130.39913025802238,Demographic Update
+2025-07-01,Uttar Pradesh,Moradabad,16130,124.14087194540562,Demographic Update
+2025-07-01,Uttar Pradesh,Moradabad,3965,123.9983442658536,Enrolment
+2025-04-01,Delhi,West Delhi,16094,123.86341221726005,Demographic Update
+2025-06-01,Chhattisgarh,Mahasamund,15690,120.7496974902931,Demographic Update
+2025-07-01,Maharashtra,Aurangabad,3835,119.92725620232625,Enrolment
+2025-03-01,Delhi,West Delhi,15388,118.4221186597386,Demographic Update
+2025-07-01,Uttar Pradesh,Firozabad,14744,113.45867241180119,Demographic Update
+2025-06-01,Chhattisgarh,Mahasamund,14259,109.7206732965067,Demographic Update
+2025-06-01,Chhattisgarh,Mahasamund,13608,104.70327654587432,Demographic Update
+2025-04-01,Delhi,North West Delhi,13071,100.5645022677029,Demographic Update
+2025-07-01,Uttar Pradesh,Shahjahanpur,12439,95.69354259581402,Demographic Update
+2025-04-01,Delhi,North East Delhi,12358,95.06925820748648,Demographic Update
+2025-04-01,Meghalaya,West Khasi Hills,3027,94.62387808440239,Enrolment
+2025-07-01,Uttar Pradesh,Hardoi,3006,93.96624078183258,Enrolment
+2025-07-01,Uttar Pradesh,Aligarh,12209,93.92088322155065,Demographic Update
+2025-07-01,Uttar Pradesh,Firozabad,2990,93.46518378939845,Enrolment
+2025-07-01,Uttar Pradesh,Saharanpur,2920,91.27305944749911,Enrolment
+2025-07-01,Delhi,North East Delhi,2874,89.83252059425097,Enrolment
+2025-07-01,Madhya Pradesh,Barwani,2855,89.23751541573543,Enrolment
+2025-07-01,Uttar Pradesh,Aligarh,2845,88.9243547954641,Enrolment
+2025-03-01,Uttar Pradesh,Moradabad,11444,88.0248639984573,Demographic Update
+2025-07-01,Uttar Pradesh,Saharanpur,11401,87.69345376761676,Demographic Update
+2025-06-01,Uttar Pradesh,Moradabad,11385,87.57013833288539,Demographic Update
+2025-07-01,West Bengal,Dinajpur Uttar,2727,85.22905947626234,Enrolment
+2025-07-01,Maharashtra,Nashik,2700,84.38352580152974,Enrolment
+2025-07-01,Delhi,West Delhi,10922,84.00169794034655,Demographic Update
+2025-05-01,Uttar Pradesh,Moradabad,10872,83.61633720681102,Demographic Update
+2025-07-01,Uttar Pradesh,Shahjahanpur,2623,81.97218902544046,Enrolment
+2025-03-01,Delhi,North West Delhi,10655,81.9438716232669,Demographic Update
+2025-07-01,Uttar Pradesh,Rampur,10557,81.18856458553729,Demographic Update
+2025-04-01,Uttar Pradesh,Aligarh,10374,79.77814430079731,Demographic Update
+2025-06-01,Uttar Pradesh,Shahjahanpur,10352,79.60858557804168,Demographic Update
+2025-05-01,Uttar Pradesh,Moradabad,2545,79.52953618732404,Enrolment
+2025-07-01,Meghalaya,West Khasi Hills,2538,79.31032375313411,Enrolment
+2025-07-01,Uttar Pradesh,Ghaziabad,2458,76.80503879096344,Enrolment
+2025-04-01,Delhi,South Delhi,9971,76.67213678850108,Demographic Update
+2025-03-01,Uttar Pradesh,Firozabad,9899,76.11721733220993,Demographic Update
+2025-06-01,Chhattisgarh,Rajnandgaon,9758,75.03050006363979,Demographic Update
+2025-07-01,Uttar Pradesh,Rampur,2399,74.95739113136256,Enrolment
+2025-06-01,Chhattisgarh,Balrampur,9704,74.61431047142143,Demographic Update
+2025-07-01,West Bengal,Dinajpur Uttar,2354,73.54816834014154,Enrolment
+2025-06-01,Uttar Pradesh,Rampur,9433,72.52565529565895,Demographic Update
+2025-04-01,Delhi,West Delhi,9409,72.3406821435619,Demographic Update
+2025-07-01,Delhi,West Delhi,2300,71.85710099067634,Enrolment
+2025-03-01,Rajasthan,Banswara,9303,71.52371738846661,Demographic Update
+2025-04-01,Uttar Pradesh,Firozabad,9196,70.69904541870062,Demographic Update
+2025-07-01,Uttar Pradesh,Etah,2251,70.3226139513468,Enrolment
+2025-07-01,Maharashtra,Thane,2238,69.91550514499406,Enrolment
+2025-06-01,Chhattisgarh,Rajnandgaon,9093,69.90520230761746,Demographic Update
+2025-05-01,Delhi,North East Delhi,9068,69.7125219408497,Demographic Update
+2025-07-01,Delhi,North East Delhi,8961,68.8878499710837,Demographic Update
+2025-06-01,Delhi,West Delhi,8896,68.38688101748754,Demographic Update
+2025-07-01,Uttar Pradesh,Pilibhit,8719,67.02270402077181,Demographic Update
+2025-03-01,Delhi,South Delhi,8702,66.89168137136974,Demographic Update
+2025-07-01,Uttar Pradesh,Meerut,2105,65.75046889538531,Enrolment
+2025-03-01,Uttar Pradesh,Aligarh,8488,65.24233743183774,Demographic Update
+2025-04-01,Uttar Pradesh,Moradabad,2044,63.84018911173017,Enrolment
+2025-04-01,Delhi,South Delhi,8282,63.65465120967143,Demographic Update
+2025-07-01,Jharkhand,Pakur,2028,63.33913211929603,Enrolment
+2025-03-01,Delhi,North East Delhi,8240,63.3309481935016,Demographic Update
+2025-04-01,Delhi,East Delhi,8218,63.16138947074597,Demographic Update
+2025-07-01,Uttar Pradesh,Unnao,2008,62.71281087875336,Enrolment
+2025-07-01,Uttar Pradesh,Kushinagar,8152,62.6527133024791,Demographic Update
+2025-03-01,Rajasthan,Baran,8090,62.174865992895064,Demographic Update
+2025-07-01,Uttar Pradesh,Agra,1957,61.11569171536956,Enrolment
+2025-05-01,Uttar Pradesh,Aligarh,1952,60.959111405233884,Enrolment
+2025-05-01,Uttar Pradesh,Meerut,1926,60.144893792528414,Enrolment
+2025-06-01,Uttar Pradesh,Firozabad,1926,60.144893792528414,Enrolment
+2025-03-01,Uttar Pradesh,Saharanpur,7799,59.932066523718376,Demographic Update
+2025-07-01,Delhi,North West Delhi,7779,59.77792223030417,Demographic Update
+2025-07-01,Punjab,Amritsar,7754,59.58524186353642,Demographic Update
+2025-07-01,Haryana,Faridabad,1906,59.51857255198575,Enrolment
+2025-05-01,Uttar Pradesh,Saharanpur,7740,59.47734085814647,Demographic Update
+2025-07-01,Bihar,Pashchim Champaran,1871,58.422510381036076,Enrolment
+2025-07-01,Bihar,Sitamarhi,1851,57.796189140493404,Enrolment
+2025-03-01,Jharkhand,Deoghar,7461,57.3270279650183,Demographic Update
+2025-06-01,Chhattisgarh,Kawardha,7454,57.273077462323336,Demographic Update
+2025-06-01,Uttar Pradesh,Moradabad,1826,57.013287589815064,Enrolment
+2025-07-01,Uttar Pradesh,Sitapur,1825,56.981971527787934,Enrolment
+2025-07-01,Uttar Pradesh,Gautam Buddha Nagar,7379,56.69503636202006,Demographic Update
+2025-04-01,Delhi,East Delhi,7374,56.656500288666514,Demographic Update
+2025-07-01,Uttar Pradesh,Ghaziabad,7319,56.232603481777446,Demographic Update
+2025-07-01,Uttar Pradesh,Gautam Buddha Nagar,1796,56.073805729001066,Enrolment
+2025-07-01,Rajasthan,Jodhpur,1795,56.04248966697393,Enrolment
+2025-06-01,Delhi,West Delhi,1795,56.04248966697393,Enrolment
+2025-04-01,Uttar Pradesh,Saharanpur,7293,56.03221590033898,Demographic Update
+2025-07-01,Uttar Pradesh,Hapur,1791,55.91722541886539,Enrolment
+2025-03-01,Uttar Pradesh,Unnao,7230,55.54666137608423,Demographic Update
+2025-04-01,Uttar Pradesh,Aligarh,1767,55.16563993021419,Enrolment
+2025-07-01,Uttar Pradesh,Bahraich,1759,54.915111433997126,Enrolment
+2025-03-01,Uttar Pradesh,Kushinagar,7132,54.79135433835463,Demographic Update
+2025-07-01,Gujarat,Surat,7099,54.537016254221186,Demographic Update
+2025-03-01,Uttar Pradesh,Meerut,7081,54.39828639014841,Demographic Update
+2025-05-01,Gujarat,Surat,7053,54.18248437936852,Demographic Update
+2025-07-01,Punjab,Amritsar,1717,53.59983682885752,Enrolment
+2025-07-01,Haryana,Faridabad,6976,53.589028849723825,Demographic Update
+2025-07-01,Gujarat,Banas Kantha,1703,53.16141196047765,Enrolment
+2025-06-01,Delhi,North East Delhi,6915,53.1188887548105,Demographic Update
+2025-03-01,Gujarat,Surat,6912,53.09576711079837,Demographic Update

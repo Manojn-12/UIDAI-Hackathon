@@ -1,0 +1,31 @@
+Category,Metric,Value
+Data Overview,Analysis Period,March - December 2025 (10 months)
+Data Overview,Total Records Analyzed,"4,347,360"
+Data Overview,Enrolment Records,"983,051"
+Data Overview,Demographic Records,"1,598,097"
+Data Overview,Biometric Records,"1,766,212"
+Data Overview,Data Quality Score,98.5/100
+Data Overview,Duplicates Removed," 591,454"
+Service Volumes,Total Citizens Served,"110,190,162"
+Service Volumes,Total Enrolments,"5,331,546"
+Service Volumes,Total Demographic Updates," 36,597,557"
+Service Volumes,Total Biometric Updates,"68,261,059"
+Service Volumes,Average Daily Volume,"362,468"
+Key Ratios,Update-to-Enrolment Ratio,19.67x
+Key Ratios,Bio-to-Demo Ratio,1.87x
+Key Ratios,Adult-to-Child Ratio (Enrolments),0.032x
+Geographic Coverage,States/UTs Covered,36
+Geographic Coverage,Districts Covered,984
+Geographic Coverage,Pincodes Covered,"19,462"
+Geographic Coverage,Pincode Coverage Rate,99.8%
+Temporal Patterns,Peak Month (Enrolments),September
+Temporal Patterns,Peak Month Volume,"1,475,867"
+Temporal Patterns,Low Month (Enrolments),March
+Temporal Patterns,Peak-to-Trough Ratio,89.0x
+State Insights,Highest Maturity State,Andaman & Nicobar Islands (50.3x)
+State Insights,Lowest Maturity State,Meghalaya (1.4x)
+State Insights,Top 5 States Concentration,52.8%
+Data Quality,Anomalies Detected,"12,324"
+Data Quality,State Names Standardized,65 → 36
+Data Quality,Weekend Activity Rate,23-27%
+Data Quality,Forecast Accuracy (Current),80-85%
